@@ -1,1 +1,1 @@
-** SonarQube Jenkins aws and docker
+SonarQube Jenkins aws and docker
